@@ -9,7 +9,7 @@
   
   <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera_Pinout.PNG" width="50%"/>
 
-Le developpement se fera en étapes.
+##Le developpement se fera en étapes.
   
   0. Integrer l'aspect SPI au projet. Le caméra JPEG ont tendence utiliser uniquement
   le port Série, le défie sera donc d'exécuter le travail sur deux fronts en simultané.
