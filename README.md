@@ -3,7 +3,7 @@
 ##Modification à la [bibliothèque de Seeed Studio](https://github.com/fredericplante/Camera_Shield_VC0706) pour accomoder la platform ESP8266.
 
 
-  <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera.jpg" width="100%"/>
+  <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera.jpg" width="50%"/>
   
   Définition des broches
   
