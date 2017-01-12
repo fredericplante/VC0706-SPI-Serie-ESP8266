@@ -5,7 +5,7 @@
 
   <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera.jpg" width="50%"/>
   
-  Définition des broches
+##Définition des broches
   
   <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera_Pinout.PNG" width="50%"/>
 
