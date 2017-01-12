@@ -7,7 +7,7 @@
   
   Définition des broches
   
-  <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera.jpg" width="100%"/>
+  <img src="./Site_picture/TTL_SPI_vOut_JPEG_Camera_Pinout.PNG" width="50%"/>
 
 Le developpement se fera en étapes.
   
