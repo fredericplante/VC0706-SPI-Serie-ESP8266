@@ -29,7 +29,7 @@
   pouvoir récupérer le JPEG et l'enregistrer dans sa mémoire FLASH afin de:
   
      4.1 le decompresser et l'enregistrer sur une carte SD,
-     4.1 le decompresser et le mettre en page pour transmition sur un port Serie secondaire.
+     4.2 le decompresser et le mettre en page pour transmition sur un port Serie secondaire.
 
 
 
